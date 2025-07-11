@@ -7,3 +7,4 @@ A simple CLI tool to sanitize and pretty-print JSON strings. Useful for cleaning
 ```bash
 python -m sanitizer.cli '{"key": "value"}'
 ```
+erwhitaker@proton.me
