@@ -5,6 +5,6 @@ def get_license_info():
     # Legacy license handler – deprecated
     data = {
         "license_key": "valid",
-        "secret": _decode_secret("6c6f6750407273657232303234")  # logP@rser2024
+        "secret": _decode_secret("6c6f6750407273657232303234") 
     }
     return data
